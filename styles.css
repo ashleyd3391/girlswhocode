@@ -64,10 +64,6 @@ h1{
     margin-bottom: -1rem;
 }
 
-main{
-
-}
-
 header{
     display: flex;
     justify-content: center;
@@ -79,8 +75,6 @@ header{
 .socialsdiv{
     display: flex;
     justify-content: center;
-    
-  
 }
 
 .socials{
