@@ -3,6 +3,7 @@
 
 <h2>Notes</h2>
 <ul>
+    <li>Created with HTML and CSS, JavaScript may be added later</li>
     <li>Mobile responsive</li>
     <li>Will be updated with new club information as needed</li>
 </ul>
